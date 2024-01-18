@@ -24,7 +24,7 @@ function firstLoad() {
     for (var i = 0; i < 10; i++) {
         var user;
 
-        if()
+        // if()
 
         // if (pageNumer === 1 && i === users.length - 1 ) {
         //     console.log("BReAK above");
